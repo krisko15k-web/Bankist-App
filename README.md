@@ -1,2 +1,2 @@
-# Bankist
+# Bankist-App
  
